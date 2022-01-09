@@ -5,3 +5,6 @@ Oranges
 Bananas
 Cherries
 Carrots
+Cereal
+Cucumbers
+Raddishes
