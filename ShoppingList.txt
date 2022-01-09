@@ -1,5 +1,5 @@
 Shopping List:
-A
+
 Apples
 Oranges
 Bananas
